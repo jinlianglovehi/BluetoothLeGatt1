@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/jinliang/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/layout/gatt_services_characteristics.xml",
+        "source": "/home/jinliang/AndroidStudioProjects/BluetoothLeGatt1/Application/src/main/res/layout/gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "/home/jinliang/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/layout/listitem_device.xml",
+        "source": "/home/jinliang/AndroidStudioProjects/BluetoothLeGatt1/Application/src/main/res/layout/listitem_device.xml"
+    },
+    {
+        "merged": "/home/jinliang/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/layout/actionbar_indeterminate_progress.xml",
+        "source": "/home/jinliang/AndroidStudioProjects/BluetoothLeGatt1/Application/src/main/res/layout/actionbar_indeterminate_progress.xml"
+    }
+]
